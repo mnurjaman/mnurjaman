@@ -1,32 +1,26 @@
 <p align="center">
  <canvas class="_aarh" height="182" width="182" style="position: absolute; top: -7px; left: -7px; width: 91px; height: 91px;"></canvas>
 </p>
-<h1 align="center">Halo, saya Muhammad Nurjaman! 👋</h1>
+<h1 align="center">Halo, Muhammad Nurjaman! 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white">
-  </a>
   <a href="https://www.instagram.com/dev_jaman/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
-    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white">
 </a> 
 </p>
 
+- Junior IOS Developer.
+- Currently 🎓 studying at Yogyakarta University of Technology - Informatics
+- Lives in 🇮🇩Indonesia
+- Write human readable code
+- 💭 Problem solving ability
+- Excellent team player
+- Open source community management
+- LOVE project management
 
-## Introduction
-Hello, I am a junior mobile developer who is highly enthusiastic about expanding my knowledge and honing my skills in mobile application development. My passion lies in building elegant and intuitive mobile applications that enhance user experience and solve real-world problems.
 
-## Skills and Abilities
-With a firm grounding in programming fundamentals, I am confident in my ability to learn new technologies and apply them effectively to achieve project goals. I relish the opportunity to tackle challenging projects that stretch my abilities and enable me to contribute to the development of high-quality software.
-
-## Approach
-Collaboration is a key component of my approach, and I am excited to work alongside other developers, designers, and stakeholders to bring innovative ideas to life. Whether working in a team or autonomously, I am committed to delivering results that exceed expectations and meet the needs of users.
-
-## Conclusion
-As a junior mobile developer, I am eager to take on new challenges and continue growing my skills in the field. I am confident that I have the passion, drive, and determination to make a meaningful contribution to any team or project. If you are looking for a developer who is dedicated to building great mobile applications, please do not hesitate to contact me.
 
 ## Contact
 - Email: mnurjaman035@gmail.com
@@ -41,6 +35,7 @@ As a junior mobile developer, I am eager to take on new challenges and continue 
 - Xcode
 - Alamofire
 - Carthage
+- Flutter
 
 ## Recent Project
 - [EvilCorps Mobile Banking](https://github.com/mnurjaman/EvilCorps_Mbanking)
@@ -62,4 +57,5 @@ As a junior mobile developer, I am eager to take on new challenges and continue 
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white">
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white">
+   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white">
 </div>

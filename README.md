@@ -44,7 +44,6 @@
 ## Language & Tools
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-Objective--C-5D5D5D?style=flat&logo=objective-c&logoColor=white" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" style="margin-right: 10px;">

@@ -18,7 +18,7 @@
 - 💭 Problem solving ability
 - Excellent team player
 - Open source community management
-- LOVE project management
+- Love project management
 
 
 
@@ -35,7 +35,7 @@
 - Xcode
 - Alamofire
 - Carthage
-- Flutter
+
 
 ## Recent Project
 - [EvilCorps Mobile Banking](https://github.com/mnurjaman/EvilCorps_Mbanking)

@@ -11,7 +11,7 @@
 </a> 
 </p>
 
-- Junior IOS Developer.
+- IOS Developer.
 - Currently 🎓 studying at Yogyakarta University of Technology - Informatics
 - Lives in 🇮🇩Indonesia
 - Write human readable code

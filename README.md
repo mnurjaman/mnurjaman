@@ -56,5 +56,4 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=white">
   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white">
-   <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab&logoColor=white">
 </div>

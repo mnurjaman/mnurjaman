@@ -11,7 +11,7 @@
 </a> 
 </p>
 
-- IOS Developer.
+- Software Engineer.
 - Currently 🎓 studying at Yogyakarta University of Technology - Informatics
 - Lives in 🇮🇩Indonesia
 - Write human readable code

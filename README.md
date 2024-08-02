@@ -27,14 +27,13 @@
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
 
 ## Skills
-- Swift
-- SwiftUI
+- Swift, SwiftUI
 - Objective-C
 - Git
 - GitHub
 - Xcode
-- Alamofire
-- Carthage
+- Alamofire, Carthage
+- Java, Kotlin
 
 
 ## Recent Project

@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/dev_jaman/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
 </a> 
 </p>
 

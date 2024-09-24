@@ -8,7 +8,7 @@
   </a>
 </a> 
 </p>
-![Visitor Count](https://profile-counter.glitch.me/mnurjaman/count.svg)
+
 
 - Software Engineer.
 - Currently 🎓 studying at Yogyakarta University of Technology - Informatics

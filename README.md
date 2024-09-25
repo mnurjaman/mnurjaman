@@ -8,18 +8,8 @@
   </a>
 </a> 
 </p>
-
-
-- Software Engineer.
-- Currently 🎓 studying at Yogyakarta University of Technology - Informatics
-- Lives in 🇮🇩Indonesia
-- Write human readable code
-- 💭 Problem solving ability
-- Excellent team player
-- Open source community management
-- Love project management
-
-
+HTML : <img src="https://visitor-badge.mnurjaman.repl.co?username=YOUR_USERNAME&repo=YOUR_REPO_ID" alt="Visitor Badge" />
+Markdown : ![Visitor Badge](https://visitor-badge.mnurjaman.repl.co?username=YOUR_USERNAME&repo=YOUR_REPO_ID)
 
 ## Contact
 - Email: mnurjaman035@gmail.com

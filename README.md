@@ -23,9 +23,6 @@
 - Java, Kotlin
 
 
-## Recent Project
-- [EvilCorps Mobile Banking](https://github.com/mnurjaman/EvilCorps_Mbanking)
-
 
 ## Language & Tools
 <div style="display: flex; justify-content: center;">

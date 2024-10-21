@@ -8,8 +8,6 @@
   </a>
 </a> 
 </p>
-HTML : <img src="https://visitor-badge.mnurjaman.repl.co?username=YOUR_USERNAME&repo=YOUR_REPO_ID" alt="Visitor Badge" />
-Markdown : ![Visitor Badge](https://visitor-badge.mnurjaman.repl.co?username=YOUR_USERNAME&repo=YOUR_REPO_ID)
 
 ## Contact
 - Email: mnurjaman035@gmail.com

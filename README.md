@@ -10,7 +10,7 @@
 </p>
 
 ## Contact
-- Email: mnurjaman035@gmail.com
+- Email: mnrjamann@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
 
 ## Skills

@@ -18,4 +18,9 @@
 - Email: mnrjamann@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mnurjaman/github-readme-stats)
+<a href="https://github.com/mnurjaman/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mnurjaman" />
+</a>
+<a href="https://github.com/mnurjaman/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnurjaman&layout=compact&langs_count=8&card_width=320" />
+</a>

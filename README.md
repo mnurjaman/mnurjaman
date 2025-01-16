@@ -18,5 +18,4 @@
 - Email: mnrjamann@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnurjaman&layout=pie)](https://github.com/mnurjaman/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mnurjaman/github-readme-stats)

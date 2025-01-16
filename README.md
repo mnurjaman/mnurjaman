@@ -4,7 +4,7 @@
 <h1 align="center">Halo, I'am Muhammad Nurjaman! 👋</h1>
 <p align="center">
   <a href="https://portfolio-phi-flame-86.vercel.app/" target="_blank">
-    MY Portfolio
+    MY Website Portfolio
    <p align="center">
    <a href="https://www.linkedin.com/in/muhammadnurjaman/">
     <img src="https://skillicons.dev/icons?i=linkedin" />

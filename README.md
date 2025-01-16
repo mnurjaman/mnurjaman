@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Halo, I'am Muhammad Nurjaman! 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
+  <a href="https://portfolio-phi-flame-86.vercel.app/" target="_blank">
+    MY Portfolio
   </a>
 </a> 
 </p>

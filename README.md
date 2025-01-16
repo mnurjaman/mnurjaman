@@ -17,5 +17,3 @@
 ## Contact
 - Email: mnrjamann@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mnurjaman&repo=github-readme-stats)](https://github.com/mnurjaman/github-readme-stats)

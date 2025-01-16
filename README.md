@@ -5,6 +5,11 @@
 <p align="center">
   <a href="https://portfolio-phi-flame-86.vercel.app/" target="_blank">
     MY Portfolio
+   <p align="center">
+   <a href="https://www.linkedin.com/in/muhammadnurjaman/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
   </a>
 </a> 
 </p>

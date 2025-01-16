@@ -18,5 +18,5 @@
 - Email: mnrjamann@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnurjaman&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnurjaman&show_icons=true&theme=radical)
 

@@ -18,9 +18,9 @@
 - Email: mnrjamann@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
 
-<a href="https://github.com/mnurjaman/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mnurjaman" />
+<a href="https://github.com/fazaazizi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fazaazizi" />
 </a>
-<a href="https://github.com/mnurjaman/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnurjaman&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/fazaazizi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazaazizi&layout=compact&langs_count=8&card_width=320" />
 </a>

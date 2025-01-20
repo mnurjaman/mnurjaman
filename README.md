@@ -15,5 +15,5 @@
 </p>
 
 ## Contact
-- Email: mnrjamann@gmail.com
+- Email: mnurjaman035@gmail.com
 - LinkedIn: [Muhammad Nurjaman](https://www.linkedin.com/in/your-linkedin)
